@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["memento"],
+  "java.project.referencedLibraries": [
+    "C:/openjfx-25_windows-x64_bin-sdk/javafx-sdk-25/lib/**/*.jar"
+  ]
+}
